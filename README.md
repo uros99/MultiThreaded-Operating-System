@@ -8,7 +8,7 @@ To test this system there is a files with test code like: <br>
   *USER.cpp* <br>
   This test represents a few producers and one consumer communicating through bounded buffer. Producers and consumers are built as threads and thay are synchronized with semaphores whitch I also implemented in this system. <br>
   This system supports:<br>
-  **semaphores** <br>
-  **threads** <br>
-  **events** <br>
-  **interrupt routines** <br>
+  **-semaphores** <br>
+  **-threads** <br>
+  **-events** <br>
+  **-interrupt routines** <br>
